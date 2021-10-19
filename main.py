@@ -1,4 +1,5 @@
-# Naufal Anas Nugrahanto (18219068)
+# Naufal Anas Nugrahanto (18219068 / K02)
+# Dari Tugas TST (read, add, update, delete) & UTS (API Authentication)
 
 import json
 
